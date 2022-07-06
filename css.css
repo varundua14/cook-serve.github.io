@@ -1,0 +1,225 @@
+body{
+     background-color: maroon;
+}
+
+#outer
+{
+     position: sticky;
+      height: 10vh;
+      padding: 20px;
+      text-align: center;
+      position:-webkit-sticky;
+}
+header{
+     position:sticky;
+}
+a
+{
+     margin: 20px;
+     font-size: 20px;
+     text-align: center;
+     color:white;
+     font-family: "Times New Roman", Times, serif;
+     padding: 30px;
+}
+a:hover{
+     color:lightgray;
+}
+#logo{
+     float: left;
+height:8vh;
+margin: 0%;
+border-radius: 65%;
+}
+#HOME
+{ 
+   padding: 20px;
+margin-top: 10px;
+margin-bottom: 40px;
+}
+h1
+{
+     margin-top: 10vh;
+     color:azure;
+     font-size: 15vh;
+}
+p{
+     font-size: 7vh;
+     color:azure;
+ }
+ #dp
+ {
+     height: 80vh;
+     float: right;
+     padding: 20px;
+     border-radius:4%;
+ }
+ .dropdown {
+     position: relative;
+     display: inline-block;
+     transition-duration: 20s;
+   }
+   
+   .dropdown-content {
+     display: none;
+     position: absolute;
+     background-color: rgba(181, 46, 46, 0.556);
+     
+transition-duration: 10s;
+   }
+   
+   .dropdown-content a {
+     width:200px;
+     text-decoration:solid;
+     display: block;
+     padding:10px;
+     margin-top: 10px;
+     color: beige;
+   }
+   
+   
+   .dropdown:hover .dropdown-content {display: block;}
+#mom
+{
+color:maroon;
+font-family: 'Times New Roman', Times, serif;
+font-size: 100px;
+text-align: center;
+margin-bottom: 30px;
+}
+#mom-img
+{
+     height:60vh ;
+     float:left;
+     border-radius: 100%;
+
+
+}
+#second
+{
+     height:600px;
+     background-color: wheat;
+    
+}
+#text3
+{
+font-size: 6vh;
+margin-top:100px;
+color:black;
+font-style: italic;
+
+}
+#third
+{
+     height:800px;
+     background-color: maroon;
+     margin-top: 20px;
+}
+#dv1,#dv2,#dv3
+{
+     border: 2px  dotted black ;
+     margin:50px;
+     height: 600px;
+     background-color:  whitesmoke;
+     text-align: center;
+}
+.img1
+{
+     border: 1px  solid maroon ;
+     height:300px;
+     width:300px;
+    margin-top:40px;
+}
+.text
+{
+     color: black;
+     font-size: 20px;
+     margin-top: 30px;
+     font-family:Arial, Helvetica, sans-serif;
+
+}
+#fourth
+{
+     height:700px;
+     background: url(https://thumbs.dreamstime.com/b/abstract-food-background-top-view-dark-rustic-kitchen-table-wooden-cutting-board-cooking-spoon-frame-banner-137304354.jpg);
+ 
+     background-size:  100% 100%;
+
+
+}
+
+#dv1:hover {
+     -ms-transform: scale(1.5); /* IE 9 */
+     -webkit-transform: scale(1.5); /* Safari 3-8 */
+     transform: scale(1.1); 
+   }
+  #dv2:hover {
+     -ms-transform: scale(1.5); /* IE 9 */
+     -webkit-transform: scale(1.5); /* Safari 3-8 */
+     transform: scale(1.1); 
+   }
+   #dv3:hover {
+     -ms-transform: scale(1.5); /* IE 9 */
+     -webkit-transform: scale(1.5); /* Safari 3-8 */
+     transform: scale(1.1); 
+   }
+#fourtext
+   {
+     font-family:cursive;
+     padding-top:40vh;
+     color:whitesmoke;
+font-size: 90px;
+text-align: center; 
+}
+#fd
+   {
+ font-size: 65px;
+ color: azure;
+ margin-bottom: 0%;
+ padding-bottom: 0%;
+   }
+#button
+{
+ height: 10vh;
+ width: 200px;
+ border-radius: 10px;
+ font-size: 3vh;
+}
+#fifth
+{
+     height:400px;
+     text-align: center;
+     color: bisque;
+     font-size: 20px;
+     padding-top:10vh;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#ct{
+     font-size: 40px;
+     margin-bottom: 10px;
+     padding: 0%;
+}
+#th{
+ height: 10vh;
+width:100vh;
+text-align: center;
+color: black;
+}
+#ok
+{
+     background-color: green;
+     color: wheat;
+     height: 10vh;
+     width: 20vh;
+}
+#sixth
+{
+     height: 200px;
+     background-color: black;
+     text-align: center;
+}
+#profile a
+{
+     background-color: rgb(163, 153, 153);
+     color: aqua;
+}
